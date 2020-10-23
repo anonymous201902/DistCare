@@ -5,8 +5,10 @@ This repo consists of the source code and some demo for DistCare.
 Thanks for your interest in our work.
 
 ## Visualization Tool
-Welcome to try the prototype of our visualization tool (DistCare):
+Welcome to try the prototype of our visualization tool (DistCare): 
+
 http://47.93.42.104/covid/1
+
 http://47.93.42.104/covid/368
 
 ## Source Code
